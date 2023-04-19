@@ -7,6 +7,21 @@ Bu repo [Kodluyoruz]
 ## Installation
 Öncelikle projeyi clonelayın.
 
-'''bash
+```bash
 git clone
+https://github.com/iremattes/kodluyoruzilkrepo.git
+```
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code . 
+```
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+[MIT]
+(https://choosealicense.com/licenses/mit/)
